@@ -1,0 +1,7 @@
+Utwórz strukturê u¿ytkownik, która bêdzie mia³a nastêpuj¹ce pola:
+-login
+-has³o
+-identyfikator u¿ytkownika
+-status (aktywny, nieaktywny, zablokowany)
+-rodzaj konta (user, admin, moderator)
+-data utworzenia konta (dd-mm-rrrr)
