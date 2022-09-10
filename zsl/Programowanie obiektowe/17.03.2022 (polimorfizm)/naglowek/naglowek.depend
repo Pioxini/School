@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1647524302 source:c:\users\user\documents\codeblocks\naglowek\main.cpp
-	<iostream>
-	<stdio.h>
-	<stdlib.h>
-	"add.h"
-
-1647524052 c:\users\user\documents\codeblocks\naglowek\add.h
-
